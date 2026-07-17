@@ -10,7 +10,7 @@ Use the following file extensions:
 
 #Resources:
 
-Strudel: https://strudel.cc/#JDogcygiW2JkIDxoaCBvaD5dKjIiKS5iYW5rKCJ0cjkwOSIpLmRlYyguNCk%3D
-Hydra: https://hydra.cc/
+- Strudel: https://strudel.cc/#JDogcygiW2JkIDxoaCBvaD5dKjIiKS5iYW5rKCJ0cjkwOSIpLmRlYyguNCk%3D
+- Hydra: https://hydra.cc/
 
 Enjoy!
